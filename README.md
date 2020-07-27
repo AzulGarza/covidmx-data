@@ -1,0 +1,2 @@
+# covidmx-data
+Official data
